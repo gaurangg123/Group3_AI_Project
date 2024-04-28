@@ -16,11 +16,6 @@ The landing page in the project is been made using HTML CSS and basic fundamenta
 
 In this model, live feed will be captured dynamically within micro-seconds and the output will be given in the .png format which will combine together and form a video.
 <br>
-<br>
-This is the landing page of our model 
-<br>
-<img src="images/Temp2.png" alt="Website">
-<br>
 This is the output from the model file 
 <br>
 <img src="images/temp1.jpg" alt="output">
