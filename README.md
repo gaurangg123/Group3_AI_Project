@@ -2,9 +2,11 @@
 
 Indian Sign Language is a Machine Learning Project developed by:-
 
-Tarush Chintala (RA2111027010004),
+Safal Mehrotra (RA2111027010006),
 Gaurang Ashava (RA2111027010007),
-Ritesh Mishra (RA2111027010014)
+Syed Adnan Hussainy (RA2111027010008),
+Rahul Nair (RA2111027010009)
+
 <br>
 
 The dataset used in this project is supported by Kaggle 
@@ -18,4 +20,10 @@ In this model, live feed will be captured dynamically within micro-seconds and t
 This is the landing page of our model 
 <br>
 <img src="images/Temp2.png" alt="Website">
+<br>
+This is the output from the model file 
+<br>
+<img src="images/temp1.jpg" alt="output">
+<br>
+<img src="images/temp2.jpg" alt="output">
 <br>
